@@ -4,7 +4,7 @@ body{
     padding:0px;
 }
 .header{
-    background-image: url(https://content.codecademy.com/programs/code-foundations-path/airplane.jpeg)
+    background-image: url(https://content.codecademy.com/programs/code-foundations-path/airplane.jpeg);
     background-position: center center;
     background-size: cover;
     height: 550px;
@@ -91,7 +91,7 @@ p{
     padding-left: 6px;
 }
 .main{
-    background: url(https://content.codecademy.com/programs/code-foundations-path/shards.png)
+    background: url(https://content.codecademy.com/programs/code-foundations-path/shards.png);
     margin: 0px;
     padding: 40px;
 }
